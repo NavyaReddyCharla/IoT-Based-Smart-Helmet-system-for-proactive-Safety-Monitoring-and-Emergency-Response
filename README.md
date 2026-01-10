@@ -1,0 +1,2 @@
+# IoT-Based-Smart-Helmet-system-for-proactive-Safety-Monitoring-and-Emergency-Response
+IoT-Based Smart Helmet for Rider Safety Developed a smart helmet system that detects helmet wearing, alcohol consumption, and accidents. Implemented ignition control, GPS location tracking, and GSM-based emergency alert messaging.Integrated IoT cloud monitoring to enable real-time safety tracking and faster accident response.

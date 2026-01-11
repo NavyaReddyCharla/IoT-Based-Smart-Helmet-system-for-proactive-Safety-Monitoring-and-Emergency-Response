@@ -76,4 +76,4 @@ In case of an accident, the system automatically detects the crash and sends the
 - Embedded systems and IoT safety monitoring literature
 
 ## 🔗 GitHub Repository
-httpshttps://github.com/navyareddycharla/IoT Based Smart Helmet System for Proactive Safety Monitoring and Emergency Response
+https://github.com/NavyaReddyCharla/IoT-Based-Smart-Helmet-system-for-proactive-Safety-Monitoring-and-Emergency-Response/pull/1
